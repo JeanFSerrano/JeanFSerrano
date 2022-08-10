@@ -34,7 +34,7 @@ Bem-vindo(a), Jean aqui 👋 </h1>
 </div>
   
   ##
-<h2> Me contate aqui:  🔽</h2> 
+<h2> Me contate aqui 🔽</h2> 
   
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/jeanfserrano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
