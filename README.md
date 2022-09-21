@@ -7,6 +7,11 @@ Bem-vindo(a), Jean aqui 👋 </h1>
 
 🤓 Abaixo você vê minha atividade aqui e quais tecnologias tenho mais aplicado em meus projetos 🔽
 
+<div>
+  <a href="https://github.com/JeanFSerrano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanFSerrano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFSerrano&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
 
 <div style="display: inline_block"><br>
