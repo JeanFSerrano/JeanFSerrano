@@ -7,6 +7,8 @@ Bem-vindo(a), Jean aqui 👋 </h1>
 
 🤓 Abaixo você vê minha atividade aqui e quais tecnologias tenho mais aplicado em meus projetos 🔽
 
+ 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <strong>HTML</strong>
